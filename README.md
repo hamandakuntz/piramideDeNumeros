@@ -1,1 +1,1 @@
-# piramideDeNumeros
+# representando-o-mundo
